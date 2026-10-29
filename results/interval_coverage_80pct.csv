@@ -1,0 +1,15 @@
+county,model,coverage,halfwidth_pp,n_years
+Champaign,"GD ridge, all features (from scratch)",0.571,2.023,7.0
+Cook,"GD ridge, all features (from scratch)",1.0,2.023,7.0
+King,"GD ridge, all features (from scratch)",1.0,2.023,7.0
+Lancaster,"GD ridge, all features (from scratch)",0.857,2.023,7.0
+Montgomery,"GD ridge, all features (from scratch)",0.714,2.023,7.0
+Onondaga,"GD ridge, all features (from scratch)",0.714,2.023,7.0
+ALL (pooled),"GD ridge, all features (from scratch)",0.81,2.023,42.0
+Champaign,Persistence (last Census value),0.571,1.747,7.0
+Cook,Persistence (last Census value),0.857,1.747,7.0
+King,Persistence (last Census value),1.0,1.747,7.0
+Lancaster,Persistence (last Census value),0.857,1.747,7.0
+Montgomery,Persistence (last Census value),0.714,1.747,7.0
+Onondaga,Persistence (last Census value),0.857,1.747,7.0
+ALL (pooled),Persistence (last Census value),0.81,1.747,42.0

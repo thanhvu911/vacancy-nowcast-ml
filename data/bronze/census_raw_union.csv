@@ -1,0 +1,85 @@
+GEO_ID,NAME,B25002_001E,B25002_001M,B25002_002E,B25002_002M,B25002_003E,B25002_003M,source_file,folder_county,folder_fips,file_year
+0500000US17019,"Champaign County, Illinois",87644,,78501,,9143,,Champaign_17019/2010.csv,Champaign,17019,2010
+0500000US17019,"Champaign County, Illinois",88130,,78993,,9137,,Champaign_17019/2011.csv,Champaign,17019,2011
+0500000US17019,"Champaign County, Illinois",88240,,80050,,8190,,Champaign_17019/2012.csv,Champaign,17019,2012
+0500000US17019,"Champaign County, Illinois",88547,,78521,,10026,,Champaign_17019/2013.csv,Champaign,17019,2013
+0500000US17019,"Champaign County, Illinois",89209,,81347,,7862,,Champaign_17019/2014.csv,Champaign,17019,2014
+0500000US17019,"Champaign County, Illinois",90482,,79673,,10809,,Champaign_17019/2015.csv,Champaign,17019,2015
+0500000US17019,"Champaign County, Illinois",91541,,81856,,9685,,Champaign_17019/2016.csv,Champaign,17019,2016
+0500000US17019,"Champaign County, Illinois",92736,,83080,,9656,,Champaign_17019/2017.csv,Champaign,17019,2017
+0500000US17019,"Champaign County, Illinois",93407,,84290,,9117,,Champaign_17019/2018.csv,Champaign,17019,2018
+0500000US17019,"Champaign County, Illinois",94700,,81764,,12936,,Champaign_17019/2019.csv,Champaign,17019,2019
+0500000US17019,"Champaign County, Illinois",94740,,84248,,10492,,Champaign_17019/2021.csv,Champaign,17019,2021
+0500000US17019,"Champaign County, Illinois",95238,,84713,,10525,,Champaign_17019/2022.csv,Champaign,17019,2022
+0500000US17019,"Champaign County, Illinois",96007,,89155,,6852,,Champaign_17019/2023.csv,Champaign,17019,2023
+0500000US17019,"Champaign County, Illinois",96457,,89598,,6859,,Champaign_17019/2024.csv,Champaign,17019,2024
+0500000US17031,"Cook County, Illinois",2179797,,1922125,,257672,,Cook_17031/2010.csv,Cook,17031,2010
+0500000US17031,"Cook County, Illinois",2176057,,1916910,,259147,,Cook_17031/2011.csv,Cook,17031,2011
+0500000US17031,"Cook County, Illinois",2174376,,1936001,,238375,,Cook_17031/2012.csv,Cook,17031,2012
+0500000US17031,"Cook County, Illinois",2170278,,1939894,,230384,,Cook_17031/2013.csv,Cook,17031,2013
+0500000US17031,"Cook County, Illinois",2175163,,1938055,,237108,,Cook_17031/2014.csv,Cook,17031,2014
+0500000US17031,"Cook County, Illinois",2178368,,1954712,,223656,,Cook_17031/2015.csv,Cook,17031,2015
+0500000US17031,"Cook County, Illinois",2181636,,1963973,,217663,,Cook_17031/2016.csv,Cook,17031,2016
+0500000US17031,"Cook County, Illinois",2193202,,1948373,,244829,,Cook_17031/2017.csv,Cook,17031,2017
+0500000US17031,"Cook County, Illinois",2200296,,1981796,,218500,,Cook_17031/2018.csv,Cook,17031,2018
+0500000US17031,"Cook County, Illinois",2204152,,1985613,,218539,,Cook_17031/2019.csv,Cook,17031,2019
+0500000US17031,"Cook County, Illinois",2267931,,2072143,,195788,,Cook_17031/2021.csv,Cook,17031,2021
+0500000US17031,"Cook County, Illinois",2270952,,2110498,,160454,,Cook_17031/2022.csv,Cook,17031,2022
+0500000US17031,"Cook County, Illinois",2280886,,2117084,,163802,,Cook_17031/2023.csv,Cook,17031,2023
+0500000US17031,"Cook County, Illinois",2284600,,2124304,,160296,,Cook_17031/2024.csv,Cook,17031,2024
+0500000US53033,"King County, Washington",851712,,787809,,63903,,King_53033/2010.csv,King,53033,2010
+0500000US53033,"King County, Washington",854705,,797665,,57040,,King_53033/2011.csv,King,53033,2011
+0500000US53033,"King County, Washington",859736,,804062,,55674,,King_53033/2012.csv,King,53033,2012
+0500000US53033,"King County, Washington",868388,,819434,,48954,,King_53033/2013.csv,King,53033,2013
+0500000US53033,"King County, Washington",880488,,825188,,55300,,King_53033/2014.csv,King,53033,2014
+0500000US53033,"King County, Washington",893176,,845990,,47186,,King_53033/2015.csv,King,53033,2015
+0500000US53033,"King County, Washington",910159,,861154,,49005,,King_53033/2016.csv,King,53033,2016
+0500000US53033,"King County, Washington",934617,,876639,,57978,,King_53033/2017.csv,King,53033,2017
+0500000US53033,"King County, Washington",952597,,897476,,55121,,King_53033/2018.csv,King,53033,2018
+0500000US53033,"King County, Washington",970358,,907761,,62597,,King_53033/2019.csv,King,53033,2019
+0500000US53033,"King County, Washington",985324,,924763,,60561,,King_53033/2021.csv,King,53033,2021
+0500000US53033,"King County, Washington",1004742,,945040,,59702,,King_53033/2022.csv,King,53033,2022
+0500000US53033,"King County, Washington",1021711,,949792,,71919,,King_53033/2023.csv,King,53033,2023
+0500000US53033,"King County, Washington",1033522,,970174,,63348,,King_53033/2024.csv,King,53033,2024
+0500000US42071,"Lancaster County, Pennsylvania",203175,,194028,,9147,,Lancaster_42071/2010.csv,Lancaster,42071,2010
+0500000US42071,"Lancaster County, Pennsylvania",204740,,193231,,11509,,Lancaster_42071/2011.csv,Lancaster,42071,2011
+0500000US42071,"Lancaster County, Pennsylvania",204755,,194198,,10557,,Lancaster_42071/2012.csv,Lancaster,42071,2012
+0500000US42071,"Lancaster County, Pennsylvania",205018,,194493,,10525,,Lancaster_42071/2013.csv,Lancaster,42071,2013
+0500000US42071,"Lancaster County, Pennsylvania",206431,,194764,,11667,,Lancaster_42071/2014.csv,Lancaster,42071,2014
+0500000US42071,"Lancaster County, Pennsylvania",207135,,197706,,9429,,Lancaster_42071/2015.csv,Lancaster,42071,2015
+0500000US42071,"Lancaster County, Pennsylvania",207807,,196807,,11000,,Lancaster_42071/2016.csv,Lancaster,42071,2016
+0500000US42071,"Lancaster County, Pennsylvania",210887,,201150,,9737,,Lancaster_42071/2017.csv,Lancaster,42071,2017
+0500000US42071,"Lancaster County, Pennsylvania",212243,,202490,,9753,,Lancaster_42071/2018.csv,Lancaster,42071,2018
+0500000US42071,"Lancaster County, Pennsylvania",213299,,204701,,8598,,Lancaster_42071/2019.csv,Lancaster,42071,2019
+0500000US42071,"Lancaster County, Pennsylvania",218051,,210063,,7988,,Lancaster_42071/2021.csv,Lancaster,42071,2021
+0500000US42071,"Lancaster County, Pennsylvania",218987,,212016,,6971,,Lancaster_42071/2022.csv,Lancaster,42071,2022
+0500000US42071,"Lancaster County, Pennsylvania",220296,,211669,,8627,,Lancaster_42071/2023.csv,Lancaster,42071,2023
+0500000US42071,"Lancaster County, Pennsylvania",222035,,217820,,4215,,Lancaster_42071/2024.csv,Lancaster,42071,2024
+0500000US39113,"Montgomery County, Ohio",254734,,223211,,31523,,Montgomery_39113/2010.csv,Montgomery,39113,2010
+0500000US39113,"Montgomery County, Ohio",254501,,223673,,30828,,Montgomery_39113/2011.csv,Montgomery,39113,2011
+0500000US39113,"Montgomery County, Ohio",254104,,221121,,32983,,Montgomery_39113/2012.csv,Montgomery,39113,2012
+0500000US39113,"Montgomery County, Ohio",253873,,220684,,33189,,Montgomery_39113/2013.csv,Montgomery,39113,2013
+0500000US39113,"Montgomery County, Ohio",254413,,221744,,32669,,Montgomery_39113/2014.csv,Montgomery,39113,2014
+0500000US39113,"Montgomery County, Ohio",254340,,223510,,30830,,Montgomery_39113/2015.csv,Montgomery,39113,2015
+0500000US39113,"Montgomery County, Ohio",254265,,223131,,31134,,Montgomery_39113/2016.csv,Montgomery,39113,2016
+0500000US39113,"Montgomery County, Ohio",254809,,225106,,29703,,Montgomery_39113/2017.csv,Montgomery,39113,2017
+0500000US39113,"Montgomery County, Ohio",254821,,224225,,30596,,Montgomery_39113/2018.csv,Montgomery,39113,2018
+0500000US39113,"Montgomery County, Ohio",255088,,224831,,30257,,Montgomery_39113/2019.csv,Montgomery,39113,2019
+0500000US39113,"Montgomery County, Ohio",252085,,226787,,25298,,Montgomery_39113/2021.csv,Montgomery,39113,2021
+0500000US39113,"Montgomery County, Ohio",252781,,235545,,17236,,Montgomery_39113/2022.csv,Montgomery,39113,2022
+0500000US39113,"Montgomery County, Ohio",253721,,235734,,17987,,Montgomery_39113/2023.csv,Montgomery,39113,2023
+0500000US39113,"Montgomery County, Ohio",254418,,232348,,22070,,Montgomery_39113/2024.csv,Montgomery,39113,2024
+0500000US36067,"Onondaga County, New York",202420,,184589,,17831,,Onondaga_36067/2010.csv,Onondaga,36067,2010
+0500000US36067,"Onondaga County, New York",202544,,181113,,21431,,Onondaga_36067/2011.csv,Onondaga,36067,2011
+0500000US36067,"Onondaga County, New York",203164,,185985,,17179,,Onondaga_36067/2012.csv,Onondaga,36067,2012
+0500000US36067,"Onondaga County, New York",203694,,184316,,19378,,Onondaga_36067/2013.csv,Onondaga,36067,2013
+0500000US36067,"Onondaga County, New York",204458,,185474,,18984,,Onondaga_36067/2014.csv,Onondaga,36067,2014
+0500000US36067,"Onondaga County, New York",205015,,182581,,22434,,Onondaga_36067/2015.csv,Onondaga,36067,2015
+0500000US36067,"Onondaga County, New York",205492,,182984,,22508,,Onondaga_36067/2016.csv,Onondaga,36067,2016
+0500000US36067,"Onondaga County, New York",208531,,185709,,22822,,Onondaga_36067/2017.csv,Onondaga,36067,2017
+0500000US36067,"Onondaga County, New York",209344,,185046,,24298,,Onondaga_36067/2018.csv,Onondaga,36067,2018
+0500000US36067,"Onondaga County, New York",209759,,183218,,26541,,Onondaga_36067/2019.csv,Onondaga,36067,2019
+0500000US36067,"Onondaga County, New York",211679,,198132,,13547,,Onondaga_36067/2021.csv,Onondaga,36067,2021
+0500000US36067,"Onondaga County, New York",212059,,200340,,11719,,Onondaga_36067/2022.csv,Onondaga,36067,2022
+0500000US36067,"Onondaga County, New York",212317,,198699,,13618,,Onondaga_36067/2023.csv,Onondaga,36067,2023
+0500000US36067,"Onondaga County, New York",212562,,200091,,12471,,Onondaga_36067/2024.csv,Onondaga,36067,2024

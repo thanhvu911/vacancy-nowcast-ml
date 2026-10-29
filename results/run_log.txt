@@ -1,0 +1,49 @@
+REGRESSION: mean absolute error, percentage points
+scheme                                 Random 5-fold CV  Forward-chaining (nowcast)  Leave-one-county-out
+model                                                                                                    
+Persistence (last Census value)                   0.947                       1.023                 0.947
+GD ridge, all features (from scratch)             0.945                       1.054                 0.914
+GD linear, USPS change (from scratch)             1.012                       1.067                 1.003
+sklearn OLS, USPS change                          1.012                       1.067                 1.003
+Random forest, all features                       1.048                       1.119                 1.075
+Gradient boosting, all features                   1.094                       1.215                 1.017
+County average                                    1.408                       1.538                 2.946
+GD linear, USPS levels only                       1.449                       1.696                 2.296 
+
+Nowcast skill vs persistence by county (>0 = beats carrying last year forward)
+county                                 Champaign  Cook  King  Lancaster  Montgomery  Onondaga
+model                                                                                        
+County average                              0.12 -1.32  0.30      -0.43       -0.98     -0.94
+GD linear, USPS change (from scratch)      -0.07  0.07 -0.00      -0.04       -0.11     -0.04
+GD linear, USPS levels only                -0.17 -0.82  0.13      -1.40       -0.76     -1.08
+GD ridge, all features (from scratch)      -0.05  0.05  0.04      -0.14        0.05     -0.07
+Gradient boosting, all features            -0.13 -0.15 -0.25       0.03       -0.31     -0.29
+Persistence (last Census value)             0.00  0.00  0.00       0.00        0.00      0.00
+Random forest, all features                -0.10 -0.09  0.06      -0.12       -0.13     -0.12
+sklearn OLS, USPS change                   -0.07  0.07 -0.00      -0.04       -0.11     -0.04 
+
+DIRECTION: accuracy
+scheme                                    Random 5-fold CV  Forward-chaining (nowcast)  Leave-one-county-out
+model                                                                                                       
+GD logistic, USPS change (from scratch)              0.607                       0.574                 0.590
+GD logistic, all features (from scratch)             0.592                       0.519                 0.538
+Majority class                                       0.628                       0.648                 0.628
+Rule: USPS narrow direction                          0.577                       0.593                 0.577
+sklearn logistic, all features                       0.591                       0.519                 0.538 
+
+80% conformal intervals (GD ridge, all features (from scratch) vs persistence), forward-chaining
+      county                                 model  coverage  halfwidth_pp  n_years
+   Champaign GD ridge, all features (from scratch)     0.571         2.023      7.0
+        Cook GD ridge, all features (from scratch)     1.000         2.023      7.0
+        King GD ridge, all features (from scratch)     1.000         2.023      7.0
+   Lancaster GD ridge, all features (from scratch)     0.857         2.023      7.0
+  Montgomery GD ridge, all features (from scratch)     0.714         2.023      7.0
+    Onondaga GD ridge, all features (from scratch)     0.714         2.023      7.0
+ALL (pooled) GD ridge, all features (from scratch)     0.810         2.023     42.0
+   Champaign       Persistence (last Census value)     0.571         1.747      7.0
+        Cook       Persistence (last Census value)     0.857         1.747      7.0
+        King       Persistence (last Census value)     1.000         1.747      7.0
+   Lancaster       Persistence (last Census value)     0.857         1.747      7.0
+  Montgomery       Persistence (last Census value)     0.714         1.747      7.0
+    Onondaga       Persistence (last Census value)     0.857         1.747      7.0
+ALL (pooled)       Persistence (last Census value)     0.810         1.747     42.0

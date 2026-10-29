@@ -1,0 +1,25 @@
+model,scheme,mae_pp,worst_county_mae_pp,worst_county,skill_vs_persistence
+County average,Random 5-fold CV,1.4078,2.2273,Onondaga,-0.4863
+"GD linear, USPS change (from scratch)",Random 5-fold CV,1.0123,1.6956,Champaign,-0.0687
+"GD linear, USPS levels only",Random 5-fold CV,1.4493,2.3568,Onondaga,-0.53
+"GD ridge, all features (from scratch)",Random 5-fold CV,0.9448,1.5709,Champaign,0.0025
+"Gradient boosting, all features",Random 5-fold CV,1.0935,1.5986,Champaign,-0.1544
+Persistence (last Census value),Random 5-fold CV,0.9472,1.6514,Champaign,0.0
+"Random forest, all features",Random 5-fold CV,1.048,1.7317,Champaign,-0.1064
+"sklearn OLS, USPS change",Random 5-fold CV,1.0125,1.6956,Champaign,-0.0689
+County average,Forward-chaining (nowcast),1.5379,2.5753,Onondaga,-0.5033
+"GD linear, USPS change (from scratch)",Forward-chaining (nowcast),1.067,1.8707,Champaign,-0.0429
+"GD linear, USPS levels only",Forward-chaining (nowcast),1.6958,2.7614,Onondaga,-0.6576
+"GD ridge, all features (from scratch)",Forward-chaining (nowcast),1.0542,1.8429,Champaign,-0.0305
+"Gradient boosting, all features",Forward-chaining (nowcast),1.2149,1.9832,Champaign,-0.1876
+Persistence (last Census value),Forward-chaining (nowcast),1.023,1.7519,Champaign,0.0
+"Random forest, all features",Forward-chaining (nowcast),1.119,1.9237,Champaign,-0.0938
+"sklearn OLS, USPS change",Forward-chaining (nowcast),1.067,1.8706,Champaign,-0.043
+County average,Leave-one-county-out,2.9463,4.8243,Lancaster,-2.1105
+"GD linear, USPS change (from scratch)",Leave-one-county-out,1.0027,1.6284,Champaign,-0.0585
+"GD linear, USPS levels only",Leave-one-county-out,2.2956,3.8871,Montgomery,-1.4235
+"GD ridge, all features (from scratch)",Leave-one-county-out,0.9143,1.4113,Champaign,0.0348
+"Gradient boosting, all features",Leave-one-county-out,1.0168,1.414,Onondaga,-0.0735
+Persistence (last Census value),Leave-one-county-out,0.9472,1.6514,Champaign,0.0
+"Random forest, all features",Leave-one-county-out,1.0753,1.5614,Champaign,-0.1352
+"sklearn OLS, USPS change",Leave-one-county-out,1.0028,1.6282,Champaign,-0.0587

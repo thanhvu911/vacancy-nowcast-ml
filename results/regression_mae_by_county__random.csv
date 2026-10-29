@@ -1,0 +1,9 @@
+model,Champaign,Cook,King,Lancaster,Montgomery,Onondaga
+County average,1.501,1.467,0.423,0.905,1.924,2.227
+"GD linear, USPS change (from scratch)",1.696,0.601,0.715,0.754,0.923,1.386
+"GD linear, USPS levels only",1.871,1.529,0.412,1.122,1.404,2.357
+"GD ridge, all features (from scratch)",1.571,0.525,0.754,0.796,0.686,1.337
+"Gradient boosting, all features",1.599,0.846,0.732,0.838,1.093,1.454
+Persistence (last Census value),1.651,0.627,0.617,0.679,0.791,1.318
+"Random forest, all features",1.732,0.682,0.678,0.813,0.976,1.407
+"sklearn OLS, USPS change",1.696,0.601,0.716,0.754,0.923,1.386

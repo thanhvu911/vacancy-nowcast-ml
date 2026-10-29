@@ -1,0 +1,6 @@
+model,Champaign,Cook,King,Lancaster,Montgomery,Onondaga
+"GD logistic, USPS change (from scratch)",0.444,0.889,0.667,0.667,0.444,0.333
+"GD logistic, all features (from scratch)",0.667,0.778,0.556,0.222,0.556,0.333
+Majority class,0.778,0.778,0.556,0.778,0.556,0.444
+Rule: USPS narrow direction,0.444,0.778,0.556,0.556,0.556,0.667
+"sklearn logistic, all features",0.667,0.778,0.556,0.222,0.556,0.333

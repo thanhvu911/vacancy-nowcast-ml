@@ -1,0 +1,16 @@
+model,scheme,accuracy,worst_county_accuracy,worst_county,n_predictions
+"GD logistic, USPS change (from scratch)",Random 5-fold CV,0.6071,0.4231,Onondaga,1560
+"GD logistic, all features (from scratch)",Random 5-fold CV,0.5917,0.4538,Onondaga,1560
+Majority class,Random 5-fold CV,0.6282,0.4615,Onondaga,1560
+Rule: USPS narrow direction,Random 5-fold CV,0.5769,0.4615,Champaign,1560
+"sklearn logistic, all features",Random 5-fold CV,0.591,0.4538,Onondaga,1560
+"GD logistic, USPS change (from scratch)",Forward-chaining (nowcast),0.5741,0.3333,Onondaga,54
+"GD logistic, all features (from scratch)",Forward-chaining (nowcast),0.5185,0.2222,Lancaster,54
+Majority class,Forward-chaining (nowcast),0.6481,0.4444,Onondaga,54
+Rule: USPS narrow direction,Forward-chaining (nowcast),0.5926,0.4444,Champaign,54
+"sklearn logistic, all features",Forward-chaining (nowcast),0.5185,0.2222,Lancaster,54
+"GD logistic, USPS change (from scratch)",Leave-one-county-out,0.5897,0.4615,Onondaga,78
+"GD logistic, all features (from scratch)",Leave-one-county-out,0.5385,0.3846,Onondaga,78
+Majority class,Leave-one-county-out,0.6282,0.4615,Onondaga,78
+Rule: USPS narrow direction,Leave-one-county-out,0.5769,0.4615,Champaign,78
+"sklearn logistic, all features",Leave-one-county-out,0.5385,0.3846,Onondaga,78

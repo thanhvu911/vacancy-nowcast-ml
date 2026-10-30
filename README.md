@@ -171,3 +171,8 @@ figures/         charts used above
 tests/           correctness tests
 DATASHEET.md     datasheet for the dataset
 ```
+
+## How this was built
+
+I built this follow-up with the help of an AI assistant. I chose the question and the
+evaluation designs, checked the results against the data, and wrote up the conclusions.
